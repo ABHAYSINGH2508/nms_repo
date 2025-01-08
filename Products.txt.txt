@@ -1,0 +1,2 @@
+mobile 98000
+laptop 38383
